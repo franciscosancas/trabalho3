@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  cpf: MyString
+  matricula: 1
+  endereco: MyString
+  telefone: MyString
+  data: 2017-09-27
+  cr_periodo: 1
+  materia: MyString
+  nota_final: 1.5
+  carga_horaria: 1.5
+  creditos: 1.5
+  situacao_final: MyString
+
+two:
+  nome: MyString
+  cpf: MyString
+  matricula: 1
+  endereco: MyString
+  telefone: MyString
+  data: 2017-09-27
+  cr_periodo: 1
+  materia: MyString
+  nota_final: 1.5
+  carga_horaria: 1.5
+  creditos: 1.5
+  situacao_final: MyString

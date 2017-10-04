@@ -1,0 +1,2 @@
+class Resultadoconsultum < ApplicationRecord
+end
